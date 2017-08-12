@@ -16,7 +16,7 @@ public class EjercicioG2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("hola mundo desde git");
+        System.out.print("hola mundo desde git hola");
     }
     
 }
